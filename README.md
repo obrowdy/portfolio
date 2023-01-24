@@ -15,13 +15,13 @@ I want to learn how to use more advanced tools for creating data visualization. 
 
 # Examples 
 
-## Intro
+## [Intro](Intro)
 
-## Critique
+## [Critique](critique)
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## [Visualizing overnment Debt](visualizing-government-debt)
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## [Critique by Design](critique-by-design)
  
 ## Final project
 
