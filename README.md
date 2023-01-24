@@ -9,22 +9,15 @@ This is my public portfolio for Telling Stories with Data at CMU! This is a port
 Hello! My name is Olivia and I am currently a second year Master of Arts Management candidate at Carnegie Mellon University. I use she/her pronouns and come from a background of music performance. I also love learning about color theory, topography, and design.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+I want to learn how to use more advanced tools for creating data visualization. I also want to learn more about designing compelling and effective data visualizations that are able to tell the story of the data and convince audiences of its importance. I hope to use these skills in the future when presenting information to the business-minded Boards of Directors of artistic organizations to help everyone to be on the same page about decision making and conduct actionable change for the better.  
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+# Examples 
+
+## Intro
+
+## Critique
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 
@@ -34,6 +27,6 @@ You can keep this section for stuff from in-class demos or your other work, or r
 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ---
