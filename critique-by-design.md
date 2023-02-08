@@ -14,9 +14,7 @@ I first made changes to diminish distraction and add contect to the visualizatio
 
 ![IMG-6314](IMG-6314.jpg)
 
-I then tested the wireframe idea by interviewing three individuals after showing this image to them without context. The individuals were a graduate student in their 20s, a college professor in with 70s, and a high school teacher in their 60s. Even with this small sample of readers I was able to find patterns in their understanding of my revisualization of this data. There was confusion over why the baseline score was 100, and everyone suggested more context to the idea of recession either by way of legend or explanation of the index. It was clear to all three individuals that the intended audience was arts managment professionals either for their own understanding to to show to funders and lawmakers. 
-
-I also found that the context my redesigned labels made was incorrect to the new readers and decided to adapt those based on the interviewees' answers and perception. 
+I then tested the wireframe idea by interviewing three individuals after showing this image to them without context. The individuals were a graduate student in their 20s, a college professor in with 70s, and a high school teacher in their 60s. Even with this small sample of readers I was able to find patterns in their understanding of my revisualization of this data. There was confusion over why the baseline score was 100, and everyone suggested more context to the idea of recession either by way of legend or explanation of the index. It was clear to all three individuals that the intended audience was arts managment professionals either for their own understanding to to show to funders and lawmakers. I also found that the context my redesigned labels made was incorrect to the new readers and decided to adapt those based on the interviewees' answers and perception. 
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12677254"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
