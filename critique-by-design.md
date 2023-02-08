@@ -2,5 +2,5 @@
 
 # Critique by Design
 ![data project maybe](data project maybe.png)
-
+![IMG-6314](IMG-6314.jpg)
 <div class="flourish-embed flourish-chart" data-src="visualisation/12677254"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
