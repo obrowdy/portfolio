@@ -18,5 +18,6 @@ I then tested the wireframe idea by interviewing three individuals after showing
 
 I also found that the context my redesigned labels made was incorrect to the new readers and decided to adapt those based on the interviewees' answers and perception. I found that as I tried to simplify the visualization and eliminate distraction I accidentally took away too much of the context and made the data more difficut to comprehend and read. I adressed some changes suggested by my test audience and added back in some detail to aid in clarity and readability of my visualization. 
 
+I took these plans to adjust my initial sketch to flourish to impliment and create a final visualization. There were some elements I wanted to add that I found difficult or impossible to do within the constraints of the technology and how I was able to input the data set. Changes like a color key or index scores labeling the bars might ave improved clarity further, but overall I believe my final redesign improves upon the concerns I found critiquing the initial data visualization from Americans for the Arts and impliments changing concerning clarity from my test audience. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12677254"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
