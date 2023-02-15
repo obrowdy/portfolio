@@ -8,6 +8,9 @@ The setup of this story is that the New York Philharmonic, as a benchmark profes
 
 ## Initial Sketches
 
+![IMG_0063](IMG_0063.jpg)
+![IMG_0064](IMG_0064.jpg)
+
 ## The Data
 The raw data I plan to use to complete this project is from the New York Philharmonic archives. They provide public data containing information on decades worth of subscriber, orchestra member, and program data. I will use program data covering a handful of years between 1842 and 2022 to look for trends in programmed works by living composers, female composers, and composers of color. I will also look for trends over time in gender composition of the orchestra musicians and compare this to known dates of interventions such as blind auditions. 
 
