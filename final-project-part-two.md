@@ -7,6 +7,8 @@ In this part of the project I used wireframes and storyboarding to retrieve feed
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12830307"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/12830568"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Target audience
 
 My target audience includes current musicians, music educators, and arts administrators. These are the stakeholders with the most direct influence on the situation the data identifies. My call to action is that more equitable practices in auditioning and hiring, and more representation on the stage and in classrooms can lead to more impactful, diverse, and inclusive programming. 
