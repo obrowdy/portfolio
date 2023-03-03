@@ -28,3 +28,13 @@ The rest of my notes from the Interviews can be found below.
 ![Screenshot 2023-03-02 233348.png](Screenshot 2023-03-02 233348.png)
 
 
+## References 
+
+Macdonald, Kyle. “Women Now Outnumber Men in the New York Philharmonic, for the First Time Ever.” Classic FM. Classic FM, November 24, 2022. https://www.classicfm.com/artists/new-york-philharmonic/women-outnumber-men-history/. 
+
+Nayeri, Farah. “When an Orchestra Was No Place for a Woman.” The New York Times. The New York Times, December 23, 2019. https://www.nytimes.com/2019/12/23/arts/music/women-vienna-philharmonic.html#:~:text=Women%20were%20first%20hired%20into,more%20than%20eight%20decades%20later. 
+
+“Open Data at the New&nbsp;York Philharmonic.” New York Philharmonic | Open Data. Accessed March 2, 2023. https://archives.nyphil.org/index.php/open-data. 
+
+“Royal Danish Orchestra.” University of Chicago Press, October 1, 2016. https://press.uchicago.edu/ucp/books/book/distributed/R/bo25056042.html#:~:text=Founded%20more%20than%20five%20hundred,the%20Royal%20Opera%20in%20Copenhagen. 
+
