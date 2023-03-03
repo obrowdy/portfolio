@@ -5,6 +5,11 @@ This section is the culmination of all of the work I have previously done creati
 
 The final visual canbe found here https://final-presentation.shorthandstories.com/why-are-my-skills-not-enough-to-make-it-in-the-orchestra/index.html
 
+## Process
+Up to this point I have taken many steps to reach this final point in the project. I began with choosing a data set that was compelling and matched my interests. I landed on the public archive of programing data from the New York Philharmonic. As a woman in music, I have seen much adversity bias against myself and my peers. It is fairly common knowlege that there is significant underrepresentation of more diverse populations in classical music such as women and bipoc musicians. I was interested to see if the data from the New York Phil as the oldest major American Orchestra supported this idea. It turns out it did. And some of the numbers were surprising even to current artistic administrators. 
+
+After the outline, I began analyzing and visulizing the data. I created a story arc that went through all the shocking and interesting things I wanted to highlight. I then created visuals to help my audience understand this data in context and asked of feedback. I identified my target audience, representatives to interview, wrote an interview script, and took notes. I then worked to finalize my visual presentation and make changes addressed in my interview findings. Finally I created this page and gave my final presentation in class. 
+
 ## Reflection 
 Through completing my in-class presentation, I realized I needed to have a bit more focus on who my intended audience was. I narrowed it down to Artistic Administrators and adjusted my message and call to action acordingly. I believe this audience could have the biggest impact on the issue and would be most interested by what the data is showing. 
 
