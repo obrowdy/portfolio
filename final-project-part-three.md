@@ -20,4 +20,6 @@ I also found through feedback that this information is not surprising which adds
 
 The rest of my notes from the Interviews can be found below. 
 
+![Screenshot 2023-03-02 233348.png](Screenshot 2023-03-02 233348.png)
+
 
